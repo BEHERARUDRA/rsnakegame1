@@ -143,7 +143,7 @@ function down1() {
 }
 function left1() {
     inputDir.x = -1;
-    inputDir.y = 0;
+    inputDir.y =  0;
 }
 function right1() {
     inputDir.x = -1;
