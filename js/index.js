@@ -141,11 +141,11 @@ function down1() {
     inputDir.x = 0;
     inputDir.y = 1;
 }
+function right1() {
+    inputDir.x =  1;
+    inputDir.y =  0;
+}
 function left1() {
     inputDir.x = -1;
     inputDir.y =  0;
-}
-function right1() {
-    inputDir.x = -1;
-    inputDir.y = 0;
 }
